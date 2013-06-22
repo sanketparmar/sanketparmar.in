@@ -1,0 +1,126 @@
+.navbar {
+	font-size: 20px;
+	border-top: 5px solid #fc0;
+        -webkit-font-smoothing: antialiased;
+}
+
+.nav {
+	color: #63c0f5;
+	font-size: 17px; 
+	-webkit-font-smoothing: antialiased;
+}
+
+#post {
+	background-color: white;
+	background: rgba(64,64,64,0.8);
+	color: #eaeaea;
+	padding: 1em;
+	opacity: 0.8;
+	filter: alpha(opacity=80); 
+	opacity: 10;
+	filter: alpha(opacity=90); 
+}
+
+
+.nav>li>a{
+	display:block;
+	font-size:18px;
+}
+
+.navbar-inner{
+	background-color:rgba(0, 0, 0, 1);
+}
+.navbar-inner {
+	background: rgba(0,0,0,1); /* Old browsers */
+}
+.navbar .nav .active > a, .navbar .nav .active > a:hover {
+	background-color: #c79810;
+}
+.navbar .nav > li > a {
+	color: #fc0;
+}
+h1,h2,h3,h4 {
+	-webkit-font-smoothing: antialiased;
+
+	color: #ddd;
+	text-shadow: 0 1px 3px rgba(0,0,0,.5);
+	font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	display: block;
+	-webkit-margin-before: 0.33em;
+	-webkit-margin-after: 0.33em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	font-weight: bold;
+}
+a {
+	color: #fc0;
+}
+
+a:visited, a:hover {
+    	color: #fc0;
+}
+body {
+	background: url('/images/bg.png');
+
+	font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	color: #ddd;
+	text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+.info-box {
+	border: 1px dashed #b5e853;
+ 	background-color: rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 4px 4px 5px #000;
+	-webkit-box-shadow: 4px 4px 5px #000;
+	box-shadow: 4px 4px 5px #000;
+	-webkit-font-smoothing: antialiased;
+	-khtml-border-radius: 10px;
+}
+
+
+
+p > pre, p > code, p > nobr > code, li > code, h5 > code, .note > code {
+      	background: #333;
+	text-shadow: none;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	font-size:15px;
+	box-shadow: inset 0 1px 10px rgba(0,0,0,.3),
+	0 1px 0 rgba(255,255,255,.1),
+	0 -1px 0 rgba(0,0,0,.5);
+}
+	
+pre, code {
+     	font-size: 13px;
+}
+footer {
+	font-size:10px;
+	text-align: center;
+	color: #eaeaea;
+	padding: 0.5em;
+	filter: alpha(opacity=80); 
+	opacity: 10;
+	font-size:  0.7em;
+}
+	
+.navbar .brand {
+	color: #eaeaea;
+}
+code { border: none;}
+h1, h2, h3 { padding: 0px 0px 0px; }
+.highlight {
+	padding: 10px 0;
+	width: 100%;
+	overflow: auto;
+	font-weight: 300;
+	text-shadow: 0 1px 3px rgba(0,0,0,.5);
+	color: #ccc;
+	border: none;
+	border-radius: 5px;
+	font-size:16px;
+	box-shadow: inset 0 1px 10px rgba(0,0,0,.3),
+		0 1px 0 rgba(255,255,255,.1),
+		0 -1px 0 rgba(0,0,0,.5);
+}

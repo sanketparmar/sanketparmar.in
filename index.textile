@@ -1,0 +1,11 @@
+---
+layout: template
+title: Home
+meta_desc: Sanket Parmar's Home
+---
+
+<div id="post" class="round_shadow">
+	<ul class="unstyled">
+		{% for p in site.posts limit 3 %}<li>{{ p.date | date: "%b %Y"}} / "{{ p.title }}":{{ p.url }}</li>{% endfor %}
+	</ul>
+</div>
