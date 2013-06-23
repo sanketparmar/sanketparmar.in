@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Installation of latex packages from CTAN
-tags: CTAN latex TeX
+title: Installation of LaTeX packages from CTAN
+tags: CTAN LaTeX TeX
 ---
 
-Steps to install latex packages from CTAN. This is just for future reference. This procedure may not be the best but it works.
+Steps to install LaTeX packages from CTAN. This is just for future reference. This procedure may not be the best but it works.
 
 ### To install font package
 
