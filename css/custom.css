@@ -128,3 +128,14 @@ h1, h2, h3 { padding: 0px 0px 0px; }
 	background: rgba(82, 80, 80, 0.40); 
 	font-size: 15px; 
 }
+st {
+  color: #63c0f5;
+  text-decoration: line-through;
+}
+sn {
+  color: rgba(184, 178, 178, 0.75);
+}
+done {
+	color: #fc0;
+ 	font-size: 13px;
+}
