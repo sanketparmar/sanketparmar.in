@@ -8,7 +8,7 @@ Steps to install latex packages from CTAN. This is just for future reference. Th
 
 ### To install font package
 
-{% highlight bash linenos%}
+{% highlight bash %}
 $ unzip ec.zip
 $ cd ec/src
 $ tex ecstdedt				# generate driver
@@ -23,7 +23,7 @@ $ texhash /usr/share/texmf-texlive
 
 ### To install normal package 
 Please refer this [source](http://tex.stackexchange.com/questions/30307/how-to-install-latex-zip-package-from-ctan-using-texhash-on-a-nix-system) for more information.
-{% highlight bash linenos%}
+{% highlight bash %}
 $ unzip colortbl.zip 
 $ cd colortbl/
 $ tex colortbl.ins
