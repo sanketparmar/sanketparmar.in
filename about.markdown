@@ -6,9 +6,9 @@ title:     About
 {% capture m %}
 About
 =====
-Hello, I am Sanket Parmar. I live in Gr. Noida, India. I did my M.Tech from [Nirma University](http://nirmauni.ac.in) in Information and Communication Technology, Ahmebabad. I think myself as partially geek, partially nerd, somewhat sensitive. In one word incomplete. I am hardworking guy and always ready to learn new things.
+Hello, I am Sanket Parmar. I live in Gr. Noida, India. I have completed my M.Tech in Information and Communication Technology from [Nirma University](http://nirmauni.ac.in), Ahmebabad. I think myself as partially geek, partially nerd, somewhat sensitive. I am hardworking guy and always ready to learn new things.
 
-Interested in Linux Kernel programming, Device Drivers and Open Source Technologies. In my spare time, I write Shell/Perl scripts and reading.
+Interested in Linux Kernel programming, Device Drivers and Open Source Technologies. In my spare time, I hack opensource technologies.
 
 ### Current Status
 Alive ! ;)
