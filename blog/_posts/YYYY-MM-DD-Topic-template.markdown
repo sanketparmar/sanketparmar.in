@@ -51,7 +51,7 @@ done | Xdialog --title "Take a break... Have some coffee... You deserve it :)" \
 		--left --guage "$quote" --fill -1 -1
 {% endhighlight%}
 
-You can grab the script from [here](https://github.com/sanketsparmar/toys.git).
+You can grab the script from [here](https://github.com/sanketparmar/toys.git).
 Set the value of  `total_time` as per your desire.  
 
 Now to schedule the a task, execute the following commands.

@@ -19,11 +19,11 @@ Please check my [resume](/) for more details.
 
 ### Contact
 
-I am available at <a>sanketsparmar[at]gmail.com</a>
+I am available at <a>sanketsparmar[at]gmail.com</a> or <a>sanket[at]sanketparmar.in</a>
 
 My skype id is <a>sanketsparmar</a>. You can also check my [LinkedIn](http://in.linkedin.com/pub/sanket-parmar/16/859/394) profile.
 
-Hosting my code on GitHub account [github.com/sanketsparmar](https://github.com/sanketsparmar)
+Hosting my code on GitHub account [github.com/sanketparmar](https://github.com/sanketparmar)
 
 {% endcapture %}
 {{ m | markdownify }}

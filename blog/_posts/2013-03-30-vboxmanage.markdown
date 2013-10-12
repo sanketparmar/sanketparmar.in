@@ -22,7 +22,7 @@ There are 3 ways to start a VM with VBoxHeadless frond-end:
 3. `VBoxHeadless --startvm "VM name"`  
 
 I wrote a simple shell script to start/stop VMs.
-You can find it [here](http://www.github.com/sanketsparmar/) (still under development).  
+You can find it [here](http://www.github.com/sanketparmar/) (still under development).  
 
 ### How to use:
 1. Change the execution permission using following command
