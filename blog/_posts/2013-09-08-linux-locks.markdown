@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Locking in Linux Kernel
+title: Notes on Linux Kernel Locks
 last_changed: 2013-09-08
 published: true
 tags: kernel locking sip semaphore mutes
