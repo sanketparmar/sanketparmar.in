@@ -288,3 +288,27 @@ td span.event-title {
 td span.event-date {
   font-size: 85%;
 }
+
+#listico {
+  padding-top: .8em;
+}
+
+#listico ul {
+  list-style-type: none;
+}
+
+#listico li {
+  float: left;
+  font-size: 30px;
+  margin-left: 50px;
+}
+
+#listico li:first-child {
+  margin-left: 0;
+}
+
+.mugshot img {
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+}

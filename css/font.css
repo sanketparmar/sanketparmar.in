@@ -47,6 +47,21 @@
 .icon-q2a:before {
   content: "\e003";
 }
+.icon-in:before {
+  content: "\e602";
+}
+.icon-so:before {
+  content: "\e603";
+}
+.icon-fb:before {
+  content: "\e601";
+}
+.icon-mail:before {
+  content: "\e604";
+}
+.icon-skype:before {
+  content: "\e605";
+}
 
 .icon-cc:before {
   content: "\e00c";
